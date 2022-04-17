@@ -7,6 +7,8 @@
  * Top performing schools have between 1700 and 2299 students, averageing 90.5% pass rate
 
 ### Note to the reader:
-#### It was determined that information gathered from Thomas High School's 9th graders was innacurate. To ensure a realistic view of school performance, all 9th grade test scores from Thomas High School were removed 
+#### It was determined that information gathered from Thomas High School's 9th graders were innacurate. To ensure a realistic view of school performance, all 9th grade test scores from Thomas High School were removed 
+     * Thomas High School Reading score went from 84% to 97%
+     * Thomas High School Math score went from 83% to 93%
 
 
