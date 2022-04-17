@@ -6,5 +6,7 @@
       * Charters spend on average $600 per student, while Districts spend an average of $644 per student
  * Top performing schools have between 1700 and 2299 students, averageing 90.5% pass rate
 
-#### Note to the reader
+### Note to the reader:
+#### It was determined that information gathered from Thomas High School's 9th graders was innacurate. To ensure a realistic view of school performance, all 9th grade test scores from Thomas High School were removed 
+
 
