@@ -1,4 +1,6 @@
 # School District Analysis
 ## Purpose of this analysis is to evaluate School performance based on various factors, including school size, type, and budget
 ### Key Points:
- * 
+ * The top 5 performing schools (based on Overall Passing Grades) were all Charter schools 
+ * School Size seems to have an impact, with charter schools (averaging 1524 students) performing at a 90% pass rate against district (averaging 3853 students) at a 53%
+      * 
